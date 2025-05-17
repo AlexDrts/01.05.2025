@@ -1,0 +1,5 @@
+﻿  01.05.2025.cpp
+C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\DZ\01.05.2025\myarray.h(35,25): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "01.05.2025.cpp")
+  
+  01.05.2025.vcxproj -> C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\DZ\01.05.2025\x64\Debug\01.05.2025.exe
